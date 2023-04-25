@@ -1,0 +1,10 @@
+.gitignore
+*.o
+*.a
+*.out
+push_swap
+c*
+printf/
+tester_*/
+trash/
+sscanf/
